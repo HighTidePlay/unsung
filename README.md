@@ -6,7 +6,7 @@ Website: https://unsung.hightideplay.com
 
 ## Download
 
-Get Unsung.zip from the latest release on the right, open it, and drag Unsung to your Applications folder. Try it free for 7 days, then unlock it for $19, once.
+Get Unsung.dmg from the latest release on the right, open it, and drag Unsung into your Applications folder. Try it free for 7 days, then unlock it for $19, once.
 
 Requires macOS 13 or later. Apple silicon recommended.
 
